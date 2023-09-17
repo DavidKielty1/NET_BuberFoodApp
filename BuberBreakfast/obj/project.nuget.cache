@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IMXo93AHvI8ShSo/p/xlHpPqT6+dHVbV2qFoYKf27ikpgDCX/FdEzhrBcIM65PR36LY01IMhHcuu+QMDnhfs7A==",
+  "dgSpecHash": "4Dq/G3vKYNpWHIJJ+1w6M+jb+L0sDHozxFaQhp5WsJ/Fyj54fKZ+jVUh4RMdmK+SpNl/8VIWbWGwBGFEb4s3zg==",
   "success": true,
   "projectFilePath": "C:\\prog\\net\\BuberFood\\Buberbreakfast\\BuberBreakfast.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }
