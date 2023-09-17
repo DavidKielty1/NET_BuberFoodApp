@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\prog\\net\\BuberFood\\BuberBreakfast\\BuberBreakfast.csproj": {}
+    "C:\\prog\\net\\BuberFood\\BuberBreakfast\\BuberBreakfast.csproj": {}
   },
   "projects": {
-    "c:\\prog\\net\\BuberFood\\BuberBreakfast\\BuberBreakfast.csproj": {
+    "C:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\prog\\net\\BuberFood\\BuberBreakfast\\BuberBreakfast.csproj",
-        "projectName": "BuberBreakfast",
-        "projectPath": "c:\\prog\\net\\BuberFood\\BuberBreakfast\\BuberBreakfast.csproj",
+        "projectUniqueName": "C:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectName": "BuberBreakfast.Contracts",
+        "projectPath": "C:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "packagesPath": "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\",
-        "outputPath": "c:\\prog\\net\\BuberFood\\BuberBreakfast\\obj\\",
+        "outputPath": "C:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell 7390 I7\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,16 +39,66 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
             }
           },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\prog\\net\\BuberFood\\BuberBreakfast\\BuberBreakfast.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\prog\\net\\BuberFood\\BuberBreakfast\\BuberBreakfast.csproj",
+        "projectName": "BuberBreakfast",
+        "projectPath": "C:\\prog\\net\\BuberFood\\BuberBreakfast\\BuberBreakfast.csproj",
+        "packagesPath": "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\",
+        "outputPath": "C:\\prog\\net\\BuberFood\\BuberBreakfast\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell 7390 I7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+                "projectPath": "C:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",

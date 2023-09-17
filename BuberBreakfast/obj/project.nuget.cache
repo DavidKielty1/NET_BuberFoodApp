@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1nCp8R5J5P5JXe/vLV+vdvQUqHvZT7xJzRZjFNG2exzUfMJBlE5mSH2oONvzcvN1RhgWi0fCLuxe+zXswmOaCg==",
+  "dgSpecHash": "qbtVJ6OGTC/7cYwdp41ib3EPVxePArw3Z3vSoSKBZ6R1Pybwr+YJjghR65fUfZmmc5nAikfPnkhKTnqFncn+OQ==",
   "success": true,
-  "projectFilePath": "c:\\prog\\net\\BuberFood\\BuberBreakfast\\BuberBreakfast.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
-    "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\prog\\net\\BuberFood\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

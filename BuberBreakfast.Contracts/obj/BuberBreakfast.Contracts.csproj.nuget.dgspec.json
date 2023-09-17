@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
+    "C:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
   },
   "projects": {
-    "c:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+    "C:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectUniqueName": "C:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "projectName": "BuberBreakfast.Contracts",
-        "projectPath": "c:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectPath": "C:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "packagesPath": "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\",
-        "outputPath": "c:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\obj\\",
+        "outputPath": "C:\\prog\\net\\BuberFood\\BuberBreakfast.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell 7390 I7\\AppData\\Roaming\\NuGet\\NuGet.Config",
