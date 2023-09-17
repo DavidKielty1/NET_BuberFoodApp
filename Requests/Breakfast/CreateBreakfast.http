@@ -2,8 +2,8 @@ POST http://localhost:5190/breakfasts
 Content-Type: application/json
 
 {
-  "name": "Vegan Sunshine",
-  "description": "Vegan everything! Join us for a healthy breakfast..",
+  "name": "Vd",
+  "description": "V..",
   "startDateTime": "2022-04-08T08:00:00",
   "endDateTime": "2022-04-08T11:00:00",
   "savory": ["Oatmeal", "Avocado Toast", "Omelette", "Salad"],
@@ -12,4 +12,4 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:5190/Breakfasts/4c65b8ca-28c8-45c1-979d-79888da1c1ff
+GET http://localhost:5190/Breakfasts/1f5a2f14-c383-4bfe-ab8e-842f138d3f6c
